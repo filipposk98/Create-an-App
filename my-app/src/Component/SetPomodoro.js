@@ -34,6 +34,7 @@ const SetPomodoro = () => {
                 })
                 break;
         }
+        console.log(newTimer)
     }
     const handleSubmit = e => {
         e.preventDefault()

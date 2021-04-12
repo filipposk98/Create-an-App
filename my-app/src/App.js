@@ -4,8 +4,9 @@ import './App.css';
 // import RemoveValue from './Component/ButtonRemove/ButtonRemove.js';
 // import ToggleVisibilityBtn from "./Component/toggleVisability/toggleVisibility";
 // import React, { useEffect, useContext } from 'react'
+
 import Button from './Component/Button'
-// import CountdownAnimation from './Components/CountdownAnimation'
+import CountdownAnimation from "./Component/CountdownAnimation";
 import SetPomodoro from './Component/SetPomodoro'
 // import { SettingsContext } from './context/SettingsContext'
 
@@ -21,6 +22,7 @@ return (
         <h1>Pomodoro</h1>
         <p>Be efficient!!!</p>
         <SetPomodoro/>
+        {/* <CountdownAnimation/> */}
         
         
        
