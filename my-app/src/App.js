@@ -1,6 +1,5 @@
 import React, { useEffect, useContext  } from "react";
 import './App.css';
-
 import Button from './Component/Button'
 import CountdownAnimation from "./Component/CountdownAnimation";
 import SetPomodoro from './Component/SetPomodoro'
