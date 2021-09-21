@@ -25,7 +25,7 @@ const {
 return (
     <div className="App">
       <header className="App-header">
-        <h1>Pomodoro</h1>
+        <h1>CountDownTimer</h1>
         <p>Set the Timer!!!</p>
         {pomodoro !== 0?
         
